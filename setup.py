@@ -7,7 +7,7 @@ requirements = []
 
 setup(
     name="devopsutil",
-    version="0.0.1",
+    version="0.0.2",
     author="Eric Brown",
     author_email="yogieric@gmail.com",
     description="A collection of devops utilities",
