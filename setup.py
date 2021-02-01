@@ -15,7 +15,7 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/yogieric/devops/",
     packages=find_packages(),
-    scripts=['scripts/hello.py']
+    scripts=['scripts/hello.py'],
     install_requires=requirements,
     classifiers=[
         "Programming Language :: Python :: 3.9",
